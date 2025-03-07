@@ -18,7 +18,8 @@ the red dots represent the badminton positions detected by TBNet, the blue flash
   >
   > **Experiments have shown that reducing the number of network layers may prevent the network from detecting the badminton shuttlecock; however, using local stage detection enables the network to detect the shuttlecock.**
   >
-  > <img src="README.assets/local_pos.png" alt="屏幕截图 2024-04-25 180434" style="zoom:50%;" />
+  > <img src="README.assets/local_pos.png" alt="loacl" width="400">
+  
 
 - [x] Hit detection
 
@@ -62,8 +63,7 @@ The instruction for the dataset preparation is [here](./prepare_dataset/README.m
 ### 2.2. Model 
 
 **TBNet model architecture**:
-
-![](README.assets/image-20250308004536802.png)
+<img src="README.assets/image-20250308004536802.png" alt="architecture" width="520">
 
 ### 2.3. How to run
 
