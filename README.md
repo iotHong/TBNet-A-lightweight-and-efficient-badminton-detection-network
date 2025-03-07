@@ -1,6 +1,5 @@
 The implementation for the _**"TBNet: Real-time temporal and spatial video analysis of badminton"**_ 
 
-
 ---
 
 ## Demo
@@ -12,8 +11,7 @@ the red dots represent the badminton positions detected by TBNet, the blue flash
 ## 1. Features
 - [x] Ball detection global stage
 
-  <img src="README.assets/image-20250308002225545.png" alt="image-20250308002225545" style="zoom: 20%;" />![149](README.assets/149.png)
-
+<img src="README.assets/image-20250308002225545.png" alt="architecture" width="400">   <img src="README.assets/149.png" alt="heatmap" width="300">
 - [x] Ball detection local stage
 
   > (Using a fully connected layer at the end of the encoder to classify and output coordinates )
