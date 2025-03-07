@@ -5,7 +5,7 @@ The implementation for the _**"TBNet: Real-time temporal and spatial video analy
 
 ## Demo
 
-![demo](README.assets/demo.gif)
+![demo](./README.assets/demo.gif)
 
 the red dots represent the badminton positions detected by TBNet, the blue flashes indicate a hit, and the red flashes signify that the shuttlecock has landed.
 
