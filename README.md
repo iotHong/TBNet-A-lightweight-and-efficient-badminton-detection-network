@@ -1,7 +1,3 @@
-# TTNet-Pytorch
-
-
-
 The implementation for the _**"TBNet: Real-time temporal and spatial video analysis of badminton"**_ 
 
 
